@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 450">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2851d;
+      }
+
+      .cls-2 {
+        fill: #144370;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Contour_logo" data-name="Contour logo">
+    <rect id="contour_logo" data-name="contour logo" class="cls-2" width="450" height="450" rx="40" ry="40"/>
+  </g>
+  <g id="_" data-name="&amp;lt;&amp;gt;">
+    <polygon class="cls-1" points="154.96 50.06 104.98 50.06 9.96 225 104.98 400.09 154.96 400.09 59.93 225 154.96 50.06"/>
+    <polygon class="cls-1" points="294.98 50.06 345 50.06 440.02 225 345 400.09 294.98 400.09 390 225 294.98 50.06"/>
+  </g>
+  <g id="_-2" data-name="*">
+    <path class="cls-3" d="M328.81,164.74l-104-59.86-103.84,60.14.16,120,104,59.86,103.84-60.14-.16-120ZM225.12,334.88l-95.34-54.87-.15-110,95.19-55.13,95.34,54.88.15,110-95.19,55.12Z"/>
+    <polyline class="cls-3" points="230.02 117.86 230.02 109.99 219.98 109.99 219.98 339.99 230.02 339.93"/>
+    <polyline class="cls-3" points="320.3 175.81 327.12 171.87 322.1 163.17 122.88 278.11 127.96 286.78"/>
+    <polyline class="cls-3" points="134.82 166.95 128.01 163.01 122.97 171.7 322 286.97 326.98 278.25"/>
+  </g>
+</svg>
