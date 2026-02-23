@@ -1,7 +1,7 @@
 /* =================================================================== 
- *  Ethos Main Stylesheet
- *  Template Ver. 1.0.0
- *  11-05-2019
+ *  Norflow Base Stylesheet
+ *  Ver. 1.0.0
+ *  23-02-2026
  *  ------------------------------------------------------------------
  *
  *  TOC:
@@ -1651,8 +1651,8 @@ input::-moz-focus-inner {
 }
 
 .s-header.sticky .header-logo img {
-  width: 35px;
-  height: 38px;
+  width: 60px;
+  height: 60px;
 }
 
 .s-header.sticky .header-content .btn {
@@ -1699,8 +1699,8 @@ input::-moz-focus-inner {
 }
 
 .header-logo img {
-  width: 41px;
-  height: 44px;
+  width: 80px;
+  height: 80px;
   vertical-align: bottom;
 }
 
@@ -1884,8 +1884,8 @@ input::-moz-focus-inner {
   }
 
   .header-logo img {
-    width: 37px;
-    height: 40px;
+    width: 80px;
+    height: 80px;
   }
 
   .header-content {
